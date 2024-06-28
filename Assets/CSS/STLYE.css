@@ -1,0 +1,101 @@
+.herosec,
+.sec7 {
+    text-align: center
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box
+}
+
+.headerund,
+body {
+    background-color: #e6e5e5
+}
+
+.header {
+    background-color: #f8f8f8
+}
+
+.headercont {
+    font-family: 'Inclusive Sans', sans-serif;
+    color: #1b1b1b
+}
+
+.herosec {
+    color: #000;
+    font-size: 85px;
+    font-family: fantasy
+}
+
+.herosecbtn,
+.sec2cant {
+    font-family: sans-serif
+}
+
+.herosecbtn {
+    width: 80px;
+    background-color: #000
+}
+
+.sec2img1,
+.sec2img2 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    position: relative
+}
+
+.sec2img1 {
+    background-image: url(../images/secimg2.webp)
+}
+
+.sec2img2 {
+    background-image: url(../images/sec2img2.webp)
+}
+
+.sec2cant {
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    color: #fff;
+    font-size: 18px
+}
+
+.sec3img1,
+.sec3img2,
+.sec5img1,
+.sec5img2 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    position: relative
+}
+
+.sec3img1 {
+    background-image: url(../images/sec3img1.webp)
+}
+
+.sec3img2 {
+    background-image: url(../images/sec3img2.webp)
+}
+
+.sec5img1 {
+    background-image: url(../images/sec5img1.webp)
+}
+
+.sec5img2 {
+    background-image: url(../images/sec5img2.webp)
+}
+
+.sec7 {
+    color: #000;
+    font-size: 70px;
+    font-family: fantasy
+}
+
+.FOOTER {
+    background-color: #090909
+}
